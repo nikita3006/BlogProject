@@ -120,8 +120,14 @@ body{
 .create-form{
     position: absolute;
     top: 30%;
-    left:55%;
+    left:52%;
     border: 0px solid black;
+}
+.boxer button{
+    display: block;
+    margin-left: 8rem;
+    margin-top: 1rem;
+  
 }
 .type{
     display: flex;
@@ -254,19 +260,6 @@ body, h1, h2, p, input, textarea, button {
     
 }
 
-.blog-button {
-    position: absolute;
-    left:42%;
-    
-}
-
-#blog-content {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 20px;
-    border: 1px solid #ccc; 
-    border-radius: 5px;
-}  
 
 
 .footer {
@@ -285,4 +278,4 @@ body, h1, h2, p, input, textarea, button {
 
 
 
->>>>>>> Stashed changes
+
